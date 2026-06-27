@@ -1,11 +1,4 @@
 ﻿# IndustryGPT — Specialized LLM Bot for Retail Customer Support
-
-**Author:** Vishal Kumar Singh
-**Institution:** AlmaBetter — M.Sc. Data Science
-**Year:** 2026
-**Contribution:** Individual
-**GitHub:** https://github.com/CodesByVishal/IndustryGPT-Specialized-LLM-Bot-Using-Pre-Trained-Models-Retail-Customer-Support
-
 ---
 
 ## Project Overview
